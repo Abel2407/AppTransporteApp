@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AppTransporte</string>
+    <string name="title_home">Home</string>
+    <string name="title_viajes">Viajes</string>
+    <string name="title_cuenta">Cuenta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_bienvenido">Bienvenido</string>
+    <string name="desc_registrar">Regístrese para continuar</string>
+    <string name="title_usuario">Usuario</string>
+    <string name="title_password">Contraseña</string>
+    <string name="desc_forgot">¿Has olvidado tu contraseña?</string>
+    <string name="title_login">Iniciar Sesión</string>
+    <string name="desc_ingresar">O ingresar con</string>
+    <string name="desc_nuevousuario">¿Nuevo usuario?</string>
+    <string name="desc_crearcuenta">Crear cuenta</string>
+    <string name="title_registroCliente">Registro Cliente</string>
+    <string name="title_registroFlota">Registro de Flota</string>
+    <string name="desc_NombreApellido">Nombres y Apellidos</string>
+    <string name="desc_dni">DNI</string>
+    <string name="desc_telefono">Teléfono</string>
+    <string name="desc_email">E-mail</string>
+    <string name="desc_direccion">Dirección</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="desc_placa">Placa</string>
+    <string name="desc_marca">Marca</string>
+    <string name="desc_anio">Año de fabricación</string>
+    <string name="desc_modelo">Modelo</string>
+    <string name="desc_asientos">Cantidad de asientos</string>
+    <string name="desc_soat">Póliza SOAT</string>
+    <string name="desc_ingresedatos">Ingrese datos</string>
+    <string name="title_resumen">Resumen</string>
+    <string name="desc_registroexitoso">Registro exitoso</string>
+    <string name="desc_datos">Datos recuperados</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_registrarvehiculo">Registrar vehículo</string>
+    <string name="title_registrovehiculo">Vehículo registrado de manera exitosa</string>
+    <string name="btn_nuevo">Nuevo Registro</string>
+    <string name="titl_useradm">Usuario Administrativo</string>
+    <string name="btn_registrocliente">Registro de Cliente</string>
+    <string name="btn_registroflota">Registro de Flota</string>
+    <string name="btn_reportes">Reportes</string>
+</resources>
