@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420151768027",
+    "project_id": "apptransporte-a1082",
+    "storage_bucket": "apptransporte-a1082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420151768027:android:11f8df040d4fca1895adfe",
+        "android_client_info": {
+          "package_name": "com.example.apptransporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420151768027-h2e07vfs1an8c5auv63rhumns30hl3tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr72XBGCisdfwTbG3Pc4C5AohksZtcmGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420151768027-h2e07vfs1an8c5auv63rhumns30hl3tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

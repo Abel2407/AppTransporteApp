@@ -16,7 +16,7 @@
         tools:layout="@layout/fragment_principal" />
     <fragment
         android:id="@+id/navviajes"
-        android:name="com.example.apptransporte.ui.fragments.ViajesFragment"
+        android:name="com.example.apptransporte.ui.fragments.user.ViajesFragment"
         android:label="fragment_viajes"
         tools:layout="@layout/fragment_viajes" />
 </navigation>

@@ -1,4 +1,4 @@
-package com.example.apptransporte.ui.fragments
+package com.example.apptransporte.ui.fragments.user
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
